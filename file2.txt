@@ -1,1 +1,4 @@
+
 This is for merge conflicts in b01
+File2.txt in b02 branch
+
